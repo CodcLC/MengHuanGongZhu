@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.5",
+  "uuid": "057a51c6-f8a2-44da-af74-930a95eceec2",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 41,
+  "height": 44,
+  "platformSettings": {},
+  "subMetas": {
+    "girl01Hair03": {
+      "ver": "1.0.4",
+      "uuid": "aa2f19ca-a86c-458b-bfa6-673ca9882426",
+      "rawTextureUuid": "057a51c6-f8a2-44da-af74-930a95eceec2",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 41,
+      "height": 44,
+      "rawWidth": 41,
+      "rawHeight": 44,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

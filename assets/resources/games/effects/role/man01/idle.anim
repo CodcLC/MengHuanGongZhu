@@ -1,0 +1,142 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "man01",
+  "_objFlags": 0,
+  "_rawFiles": null,
+  "_duration": 5,
+  "sample": 60,
+  "speed": 1,
+  "wrapMode": 1,
+  "curveData": {
+    "paths": {
+      "man01Head": {
+        "props": {
+          "angle": [
+            {
+              "frame": 0,
+              "value": 0
+            },
+            {
+              "frame": 0.31666666666666665,
+              "value": -8
+            },
+            {
+              "frame": 1.5666666666666667,
+              "value": -8
+            },
+            {
+              "frame": 1.8666666666666667,
+              "value": 0
+            },
+            {
+              "frame": 2.283333333333333,
+              "value": 0
+            },
+            {
+              "frame": 2.55,
+              "value": 8
+            },
+            {
+              "frame": 3.7333333333333334,
+              "value": 8
+            },
+            {
+              "frame": 4.033333333333333,
+              "value": 0
+            },
+            {
+              "frame": 5,
+              "value": 0
+            }
+          ]
+        }
+      },
+      "man01Head/man01Face01": {
+        "comps": {
+          "cc.Sprite": {
+            "spriteFrame": [
+              {
+                "frame": 0,
+                "value": {
+                  "__uuid__": "1729b0ec-5800-4143-9ac4-ad4710d4f400"
+                }
+              },
+              {
+                "frame": 0.16666666666666666,
+                "value": {
+                  "__uuid__": "61cdd0ae-4b5a-4056-b0ca-16aefaa9586a"
+                }
+              },
+              {
+                "frame": 1,
+                "value": {
+                  "__uuid__": "1729b0ec-5800-4143-9ac4-ad4710d4f400"
+                }
+              },
+              {
+                "frame": 2.5,
+                "value": {
+                  "__uuid__": "1729b0ec-5800-4143-9ac4-ad4710d4f400"
+                }
+              },
+              {
+                "frame": 2.6666666666666665,
+                "value": {
+                  "__uuid__": "61cdd0ae-4b5a-4056-b0ca-16aefaa9586a"
+                }
+              },
+              {
+                "frame": 2.8333333333333335,
+                "value": {
+                  "__uuid__": "1729b0ec-5800-4143-9ac4-ad4710d4f400"
+                }
+              }
+            ]
+          }
+        }
+      },
+      "man01Head/man01Hair": {
+        "props": {
+          "angle": [
+            {
+              "frame": 0,
+              "value": 0
+            },
+            {
+              "frame": 0.2,
+              "value": 1
+            },
+            {
+              "frame": 0.5833333333333334,
+              "value": -2.5
+            },
+            {
+              "frame": 1,
+              "value": 0
+            },
+            {
+              "frame": 2.3,
+              "value": 0
+            },
+            {
+              "frame": 2.45,
+              "value": -0.3
+            },
+            {
+              "frame": 2.816666666666667,
+              "value": 3
+            },
+            {
+              "frame": 3.2,
+              "value": 0
+            }
+          ]
+        }
+      }
+    },
+    "comps": {
+      "cc.Sprite": {}
+    }
+  },
+  "events": []
+}

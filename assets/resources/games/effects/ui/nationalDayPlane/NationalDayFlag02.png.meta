@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.5",
+  "uuid": "299b6af3-0187-410d-b6d1-d5f13d9bc426",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 87,
+  "height": 67,
+  "platformSettings": {},
+  "subMetas": {
+    "NationalDayFlag02": {
+      "ver": "1.0.4",
+      "uuid": "c72f9332-9c37-4f8e-8bb1-4fff87fd31c7",
+      "rawTextureUuid": "299b6af3-0187-410d-b6d1-d5f13d9bc426",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 87,
+      "height": 67,
+      "rawWidth": 87,
+      "rawHeight": 67,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

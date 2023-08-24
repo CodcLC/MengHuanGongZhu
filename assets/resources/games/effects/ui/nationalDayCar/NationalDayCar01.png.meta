@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.5",
+  "uuid": "5bee2c23-b7ae-430c-a927-010d77325713",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 184,
+  "height": 104,
+  "platformSettings": {},
+  "subMetas": {
+    "NationalDayCar01": {
+      "ver": "1.0.4",
+      "uuid": "20c86fde-d9d5-4a3e-a886-817a158e314d",
+      "rawTextureUuid": "5bee2c23-b7ae-430c-a927-010d77325713",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 2,
+      "offsetY": 0,
+      "trimX": 4,
+      "trimY": 1,
+      "width": 180,
+      "height": 102,
+      "rawWidth": 184,
+      "rawHeight": 104,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

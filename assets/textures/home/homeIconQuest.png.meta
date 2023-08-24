@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.5",
+  "uuid": "03acd7a7-9ff8-4138-8589-a3731ecae03b",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 102,
+  "height": 102,
+  "platformSettings": {},
+  "subMetas": {
+    "homeIconQuest": {
+      "ver": "1.0.4",
+      "uuid": "6ff585ac-044e-4c4d-81e0-7e704eeaf429",
+      "rawTextureUuid": "03acd7a7-9ff8-4138-8589-a3731ecae03b",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": -0.5,
+      "offsetY": -4.5,
+      "trimX": 10,
+      "trimY": 9,
+      "width": 81,
+      "height": 93,
+      "rawWidth": 102,
+      "rawHeight": 102,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

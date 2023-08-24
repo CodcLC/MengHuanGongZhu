@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.5",
+  "uuid": "89ca9536-5c73-4603-b088-5881d1de88d9",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 208,
+  "height": 149,
+  "platformSettings": {},
+  "subMetas": {
+    "girl01Face02": {
+      "ver": "1.0.4",
+      "uuid": "a722d3ea-f218-4338-9ff6-36966046c952",
+      "rawTextureUuid": "89ca9536-5c73-4603-b088-5881d1de88d9",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 208,
+      "height": 149,
+      "rawWidth": 208,
+      "rawHeight": 149,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

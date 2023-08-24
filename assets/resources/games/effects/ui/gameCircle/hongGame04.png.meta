@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.5",
+  "uuid": "da95006c-fb7e-47af-9f4d-865821edd069",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 81,
+  "height": 30,
+  "platformSettings": {},
+  "subMetas": {
+    "hongGame04": {
+      "ver": "1.0.4",
+      "uuid": "d6953a6e-e5ba-49ef-ab6b-9d6170608d73",
+      "rawTextureUuid": "da95006c-fb7e-47af-9f4d-865821edd069",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 81,
+      "height": 30,
+      "rawWidth": 81,
+      "rawHeight": 30,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

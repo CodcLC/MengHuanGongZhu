@@ -1,0 +1,261 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "giftBoxStart",
+  "_objFlags": 0,
+  "_rawFiles": null,
+  "_duration": 0.75,
+  "sample": 60,
+  "speed": 1,
+  "wrapMode": "1",
+  "curveData": {
+    "paths": {
+      "oven": {
+        "props": {
+          "scaleX": [
+            {
+              "frame": 0,
+              "value": 0.34
+            },
+            {
+              "frame": 0.25,
+              "value": 0.34
+            },
+            {
+              "frame": 0.35,
+              "value": 0.41
+            },
+            {
+              "frame": 0.45,
+              "value": 0.36
+            },
+            {
+              "frame": 0.5333333333333333,
+              "value": 0.39
+            },
+            {
+              "frame": 0.65,
+              "value": 0.38
+            }
+          ],
+          "scaleY": [
+            {
+              "frame": 0,
+              "value": 0.42
+            },
+            {
+              "frame": 0.25,
+              "value": 0.42
+            },
+            {
+              "frame": 0.35,
+              "value": 0.35
+            },
+            {
+              "frame": 0.45,
+              "value": 0.4
+            },
+            {
+              "frame": 0.5333333333333333,
+              "value": 0.37
+            },
+            {
+              "frame": 0.65,
+              "value": 0.38
+            }
+          ],
+          "opacity": [
+            {
+              "frame": 0,
+              "value": 0
+            },
+            {
+              "frame": 0.25,
+              "value": 255
+            }
+          ],
+          "y": [
+            {
+              "frame": 0,
+              "value": 700
+            },
+            {
+              "frame": 0.25,
+              "value": 0
+            },
+            {
+              "frame": 0.35,
+              "value": 50
+            },
+            {
+              "frame": 0.45,
+              "value": 0
+            },
+            {
+              "frame": 0.5333333333333333,
+              "value": 15
+            },
+            {
+              "frame": 0.65,
+              "value": 0
+            },
+            {
+              "frame": 0.7,
+              "value": 5
+            },
+            {
+              "frame": 0.75,
+              "value": 0
+            }
+          ],
+          "angle": [
+            {
+              "frame": 0,
+              "value": 0
+            },
+            {
+              "frame": 0.25,
+              "value": 0
+            },
+            {
+              "frame": 0.35,
+              "value": 3.100000000000001
+            },
+            {
+              "frame": 0.45,
+              "value": 0
+            },
+            {
+              "frame": 0.5333333333333333,
+              "value": -1.8000000000000003
+            },
+            {
+              "frame": 0.65,
+              "value": 0
+            },
+            {
+              "frame": 0.7,
+              "value": 0.8
+            },
+            {
+              "frame": 0.75,
+              "value": 0
+            }
+          ]
+        }
+      },
+      "oven_shadow": {
+        "props": {
+          "opacity": [
+            {
+              "frame": 0,
+              "value": 0
+            },
+            {
+              "frame": 0.25,
+              "value": 150
+            },
+            {
+              "frame": 0.35,
+              "value": 120
+            },
+            {
+              "frame": 0.45,
+              "value": 150
+            },
+            {
+              "frame": 0.5333333333333333,
+              "value": 120
+            },
+            {
+              "frame": 0.65,
+              "value": 150
+            }
+          ],
+          "scaleX": [
+            {
+              "frame": 0,
+              "value": 5
+            },
+            {
+              "frame": 0.25,
+              "value": 2.3
+            },
+            {
+              "frame": 0.35,
+              "value": 2.6
+            },
+            {
+              "frame": 0.45,
+              "value": 2.3
+            },
+            {
+              "frame": 0.5333333333333333,
+              "value": 2.5
+            },
+            {
+              "frame": 0.65,
+              "value": 2.3
+            }
+          ],
+          "scaleY": [
+            {
+              "frame": 0,
+              "value": 5
+            },
+            {
+              "frame": 0.25,
+              "value": 2.3
+            },
+            {
+              "frame": 0.35,
+              "value": 2.6
+            },
+            {
+              "frame": 0.45,
+              "value": 2.3
+            },
+            {
+              "frame": 0.5333333333333333,
+              "value": 2.5
+            },
+            {
+              "frame": 0.65,
+              "value": 2.3
+            }
+          ]
+        }
+      },
+      "oven/oven_light": {
+        "props": {
+          "opacity": [
+            {
+              "frame": 0,
+              "value": 0
+            }
+          ]
+        }
+      },
+      "00001": {
+        "props": {
+          "opacity": [
+            {
+              "frame": 0,
+              "value": 0
+            }
+          ]
+        }
+      },
+      "cake02": {
+        "props": {
+          "opacity": [
+            {
+              "frame": 0,
+              "value": 0
+            }
+          ]
+        }
+      }
+    }
+  },
+  "events": []
+}

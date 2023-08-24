@@ -1,0 +1,158 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "combineRemind",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 1,
+  "sample": 60,
+  "speed": 1,
+  "wrapMode": "2",
+  "curveData": {
+    "paths": {
+      "tip_circle": {
+        "props": {
+          "scaleX": [
+            {
+              "frame": 0,
+              "value": 1
+            },
+            {
+              "frame": 0.16666666666666666,
+              "value": 1.15
+            },
+            {
+              "frame": 0.6666666666666666,
+              "value": 1.25
+            }
+          ],
+          "scaleY": [
+            {
+              "frame": 0,
+              "value": 0.65
+            },
+            {
+              "frame": 0.16666666666666666,
+              "value": 0.72
+            },
+            {
+              "frame": 0.6666666666666666,
+              "value": 0.8
+            }
+          ],
+          "opacity": [
+            {
+              "frame": 0,
+              "value": 0
+            },
+            {
+              "frame": 0.16666666666666666,
+              "value": 255
+            },
+            {
+              "frame": 0.6666666666666666,
+              "value": 0
+            }
+          ],
+          "active": [
+            {
+              "frame": 0,
+              "value": true
+            }
+          ]
+        }
+      },
+      "icon": {
+        "comps": {},
+        "props": {
+          "y": [
+            {
+              "frame": 0,
+              "value": -5
+            },
+            {
+              "frame": 0.13333333333333333,
+              "value": 7
+            },
+            {
+              "frame": 0.25,
+              "value": -5
+            },
+            {
+              "frame": 0.3333333333333333,
+              "value": -1
+            },
+            {
+              "frame": 0.4166666666666667,
+              "value": -5
+            },
+            {
+              "frame": 1,
+              "value": -5
+            }
+          ],
+          "scaleX": [
+            {
+              "frame": 0,
+              "value": 1
+            },
+            {
+              "frame": 0.1,
+              "value": 0.95
+            },
+            {
+              "frame": 0.18333333333333332,
+              "value": 1.05
+            },
+            {
+              "frame": 0.25,
+              "value": 1
+            },
+            {
+              "frame": 0.2833333333333333,
+              "value": 1.03
+            },
+            {
+              "frame": 0.36666666666666664,
+              "value": 0.97
+            },
+            {
+              "frame": 0.4166666666666667,
+              "value": 1
+            }
+          ],
+          "scaleY": [
+            {
+              "frame": 0,
+              "value": 1
+            },
+            {
+              "frame": 0.1,
+              "value": 1.05
+            },
+            {
+              "frame": 0.18333333333333332,
+              "value": 0.95
+            },
+            {
+              "frame": 0.25,
+              "value": 1
+            },
+            {
+              "frame": 0.2833333333333333,
+              "value": 0.97
+            },
+            {
+              "frame": 0.36666666666666664,
+              "value": 1.03
+            },
+            {
+              "frame": 0.4166666666666667,
+              "value": 1
+            }
+          ]
+        }
+      }
+    }
+  },
+  "events": []
+}

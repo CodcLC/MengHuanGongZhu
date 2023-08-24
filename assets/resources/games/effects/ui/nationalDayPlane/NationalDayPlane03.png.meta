@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.5",
+  "uuid": "e90bb1fe-b436-4d73-a788-564557d60865",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 88,
+  "height": 116,
+  "platformSettings": {},
+  "subMetas": {
+    "NationalDayPlane03": {
+      "ver": "1.0.4",
+      "uuid": "afb02f13-2ce6-46c9-a296-6cea3e3714bc",
+      "rawTextureUuid": "e90bb1fe-b436-4d73-a788-564557d60865",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 2.5,
+      "offsetY": 3,
+      "trimX": 13,
+      "trimY": 0,
+      "width": 67,
+      "height": 110,
+      "rawWidth": 88,
+      "rawHeight": 116,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

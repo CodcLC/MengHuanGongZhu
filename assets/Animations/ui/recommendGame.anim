@@ -1,0 +1,46 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "mainMoreGame",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 2,
+  "sample": 60,
+  "speed": 1,
+  "wrapMode": "2",
+  "curveData": {
+    "props": {
+      "angle": [
+        {
+          "frame": 0,
+          "value": 0,
+          "curve": "cubicIn"
+        },
+        {
+          "frame": 0.25,
+          "value": -10
+        },
+        {
+          "frame": 0.5,
+          "value": 7
+        },
+        {
+          "frame": 0.75,
+          "value": -4
+        },
+        {
+          "frame": 1,
+          "value": 2
+        },
+        {
+          "frame": 1.1666666666666667,
+          "value": 0
+        },
+        {
+          "frame": 2,
+          "value": 0
+        }
+      ]
+    }
+  },
+  "events": []
+}

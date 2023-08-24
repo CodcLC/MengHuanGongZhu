@@ -1,0 +1,9 @@
+id,游戏名称,微信AppId,图标,logo,路径,钻石,抽屉页,轮播
+number,string,string,string,string,string,number,number,number
+ID,name,appId,icon,logo,path,diamond,moreGame,recommend
+1001,天天消一消,wxaecbf97124a50aa2,1001,1001,pages/index/index?channel_id=tphx,3,1,1
+1002,拼拼大作战,wxa27e82fc9de45117,1002,1002,pages/index/index?channel_id=tphx,3,1,1
+1003,虫虫向前冲,wx4a227d300f7c8b54,1003,1003,pages/index/index?channel_id=tphx,3,1,1
+1004,甜品幻想,wxcd5382f7bbc17c97,1004,1004,pages/index/index?channel_id=tphx,3,1,1
+1005,拥挤城镇,wxbcc50db8a6166f77,1005,1005,pages/index/index?channel_id=tphx,3,1,1
+1006,全民刀剑,wx178fa4ee7b10cee4,1006,1006,pages/index/index?channel_id=tphx,3,1,1

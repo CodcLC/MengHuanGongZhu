@@ -1,0 +1,327 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "woman01Loading",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 4,
+  "sample": 60,
+  "speed": 1,
+  "wrapMode": "2",
+  "curveData": {
+    "paths": {
+      "woman01Head": {
+        "props": {
+          "angle": [
+            {
+              "frame": 0,
+              "value": 0
+            },
+            {
+              "frame": 0.25,
+              "value": 6
+            },
+            {
+              "frame": 0.6666666666666666,
+              "value": -6
+            },
+            {
+              "frame": 1,
+              "value": 0
+            },
+            {
+              "frame": 1.8333333333333333,
+              "value": 0
+            },
+            {
+              "frame": 2,
+              "value": 4
+            },
+            {
+              "frame": 2.3333333333333335,
+              "value": 4
+            },
+            {
+              "frame": 2.5,
+              "value": 0
+            }
+          ]
+        }
+      },
+      "woman01Head/woman01Hair01": {
+        "props": {
+          "angle": [
+            {
+              "frame": 0,
+              "value": 0
+            },
+            {
+              "frame": 0.3333333333333333,
+              "value": 2
+            },
+            {
+              "frame": 0.75,
+              "value": -2
+            },
+            {
+              "frame": 1.0833333333333333,
+              "value": 0
+            }
+          ]
+        }
+      },
+      "woman01Head/woman01Face01": {
+        "comps": {
+          "cc.Sprite": {
+            "spriteFrame": [
+              {
+                "frame": 0.3333333333333333,
+                "value": {
+                  "__uuid__": "ce951c20-6c77-4844-9dc5-687c7d166721"
+                }
+              },
+              {
+                "frame": 0.4166666666666667,
+                "value": {
+                  "__uuid__": "754ccc4b-8463-4345-8ec7-1c55467ec961"
+                }
+              },
+              {
+                "frame": 0.5,
+                "value": {
+                  "__uuid__": "ce951c20-6c77-4844-9dc5-687c7d166721"
+                }
+              },
+              {
+                "frame": 1.8333333333333333,
+                "value": {
+                  "__uuid__": "754ccc4b-8463-4345-8ec7-1c55467ec961"
+                }
+              },
+              {
+                "frame": 2.3333333333333335,
+                "value": {
+                  "__uuid__": "ce951c20-6c77-4844-9dc5-687c7d166721"
+                }
+              },
+              {
+                "frame": 3,
+                "value": {
+                  "__uuid__": "ce951c20-6c77-4844-9dc5-687c7d166721"
+                }
+              },
+              {
+                "frame": 3.183333333333333,
+                "value": {
+                  "__uuid__": "754ccc4b-8463-4345-8ec7-1c55467ec961"
+                }
+              },
+              {
+                "frame": 3.3333333333333335,
+                "value": {
+                  "__uuid__": "ce951c20-6c77-4844-9dc5-687c7d166721"
+                }
+              },
+              {
+                "frame": 3.9833333333333334,
+                "value": {
+                  "__uuid__": "ce951c20-6c77-4844-9dc5-687c7d166721"
+                }
+              }
+            ]
+          }
+        }
+      },
+      "woman01Head/woman01Hair04": {
+        "props": {
+          "angle": [
+            {
+              "frame": 0,
+              "value": 0
+            },
+            {
+              "frame": 0.13333333333333333,
+              "value": -2
+            },
+            {
+              "frame": 0.4,
+              "value": 14
+            },
+            {
+              "frame": 0.8166666666666667,
+              "value": -8
+            },
+            {
+              "frame": 1.15,
+              "value": 4
+            },
+            {
+              "frame": 1.35,
+              "value": 0
+            }
+          ]
+        }
+      },
+      "woman01Head/woman01Hair03": {
+        "props": {
+          "angle": [
+            {
+              "frame": 0,
+              "value": 1.0000000000000036
+            },
+            {
+              "frame": 0.13333333333333333,
+              "value": -2
+            },
+            {
+              "frame": 0.4,
+              "value": 14
+            },
+            {
+              "frame": 0.8166666666666667,
+              "value": -8
+            },
+            {
+              "frame": 1.15,
+              "value": 4
+            },
+            {
+              "frame": 1.35,
+              "value": 0
+            }
+          ]
+        }
+      },
+      "woman01Head/woman01Hair02": {
+        "props": {
+          "angle": [
+            {
+              "frame": 0,
+              "value": 0
+            },
+            {
+              "frame": 0.3333333333333333,
+              "value": 5
+            },
+            {
+              "frame": 0.75,
+              "value": -5
+            },
+            {
+              "frame": 1.0833333333333333,
+              "value": 0
+            }
+          ]
+        }
+      },
+      "Ring_002": {
+        "props": {
+          "color": [
+            {
+              "frame": 0,
+              "value": {
+                "__type__": "cc.Color",
+                "r": 179,
+                "g": 216,
+                "b": 151,
+                "a": 255
+              }
+            },
+            {
+              "frame": 0.26666666666666666,
+              "value": {
+                "__type__": "cc.Color",
+                "r": 248,
+                "g": 203,
+                "b": 35,
+                "a": 255
+              }
+            },
+            {
+              "frame": 0.85,
+              "value": {
+                "__type__": "cc.Color",
+                "r": 255,
+                "g": 255,
+                "b": 255,
+                "a": 255
+              }
+            },
+            {
+              "frame": 1.7666666666666666,
+              "value": {
+                "__type__": "cc.Color",
+                "r": 120,
+                "g": 228,
+                "b": 253,
+                "a": 255
+              }
+            },
+            {
+              "frame": 2.2333333333333334,
+              "value": {
+                "__type__": "cc.Color",
+                "r": 248,
+                "g": 203,
+                "b": 35,
+                "a": 255
+              }
+            },
+            {
+              "frame": 2.8666666666666667,
+              "value": {
+                "__type__": "cc.Color",
+                "r": 255,
+                "g": 255,
+                "b": 255,
+                "a": 255
+              }
+            },
+            {
+              "frame": 3.7666666666666666,
+              "value": {
+                "__type__": "cc.Color",
+                "r": 120,
+                "g": 228,
+                "b": 253,
+                "a": 255
+              }
+            },
+            {
+              "frame": 4,
+              "value": {
+                "__type__": "cc.Color",
+                "r": 179,
+                "g": 216,
+                "b": 151,
+                "a": 255
+              }
+            }
+          ],
+          "angle": [
+            {
+              "frame": 0,
+              "value": 90
+            },
+            {
+              "frame": 1.0166666666666666,
+              "value": -90
+            },
+            {
+              "frame": 2,
+              "value": -270
+            },
+            {
+              "frame": 3,
+              "value": -450
+            },
+            {
+              "frame": 4,
+              "value": -620
+            }
+          ]
+        }
+      }
+    }
+  },
+  "events": []
+}
